@@ -54,7 +54,7 @@ min-height: 20vw;
 display: flex;
 align-items: center;
 justify-content: center;
-background: url("../img/banner-bg.jpg") center/cover;
+background: url("banner-bg.jpg") center/cover;
 color: #fcfbfa;
 }
 
@@ -71,7 +71,7 @@ footer{
 
 .select,
 .reviews {
-background: linear-gradient(175deg, #fcfbfa, #39312d00), url("../img/select-bg.png");
+background: linear-gradient(175deg, #fcfbfa, #39312d00), url("select-bg.png");
 }
 .advantages .content {
 justify-content: space-between;
@@ -113,7 +113,7 @@ margin: 0.5rem;
 }
 
 .about {
-	background: url("../img/about-bg.jpg") center/cover;
+	background: url("about-bg.jpg") center/cover;
 }
 
 .about .about__wrap {
@@ -153,7 +153,7 @@ margin: 0.5rem;
 
 
 .feedback {
-	background: url("../img/feedback-bg.jpg") center/cover;
+	background: url("feedback-bg.jpg") center/cover;
 	color: #fcfbfa;
 }
 
@@ -282,4 +282,5 @@ border-radius: 50%;
 
 .delivery .delivery__price table thead tr {
 	border-bottom: 3px solid #39312d;
+
 }
